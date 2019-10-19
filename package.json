@@ -1,14 +1,14 @@
 {
-  "name": "@bnb/card",
-  "version": "1.6.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "name": "@zachlysobey/card",
+  "version": "0.0.1",
+  "description": "A personal card for Zach Lysobey (@zachlysobey)",
   "main": "/bin/card.js",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "zachlysobey": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bnb/bitandbang.git"
+    "url": "git+https://github.com/zachlysobey/zachlysobey.git"
   },
   "homepage": "https://bnb.im",
   "scripts": {
@@ -26,7 +26,7 @@
     "npx card",
     "business card"
   ],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Zach Lysobey <zach@lysobey.com> (http://zach.lysobey.com)",
   "license": "MIT",
   "files": [
     "bin/card.js",
@@ -38,7 +38,7 @@
     "standard": "^12.0.1"
   },
   "bugs": {
-    "url": "https://github.com/bnb/bitandbang/issues"
+    "url": "https://github.com/zachlysobey/zachlysobey/issues"
   },
   "dependencies": {},
   "publishConfig": {
